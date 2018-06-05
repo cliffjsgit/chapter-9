@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 
+__author__ = "Your Name"
+
 ###############################################################################
 #
-print("\nExercise 9.9\n")
+# Exercise 9.9
 #
-# Question 1
+#
+# Grading Guidelines:
+# - Variable 'results' should be how old this person is (integer)
+#
 # 1. Here's another Car Talk Puzzler you can solve with a search  
 # (http://www.cartalk.com/content/puzzlers):
 # 
@@ -24,3 +29,4 @@ print("\nExercise 9.9\n")
 # Write a Python program that searches for solutions to this Puzzler. 
 #
 # Hint: you might find the string method zfill useful.
+#

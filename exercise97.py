@@ -1,10 +1,16 @@
 #!/usr/bin/env python3
 
+__author__ = "Your Name"
+
 ###############################################################################
 #
-print("\nExercise 9.7\n")
+# Exercise 9.7
 #
-# Question 1
+#
+# Grading Guidelines:
+# - Variable 'results' should be a list that includes any words that match
+# the question. 
+#
 # 1. This question is based on a Puzzler that was broadcast on the radio program
 # Car Talk (http://www.cartalk.com/content/puzzlers):
 #
@@ -21,5 +27,5 @@ print("\nExercise 9.7\n")
 #
 # What is the word?
 #
-# Write a program to find it.
-#
+
+results = None
