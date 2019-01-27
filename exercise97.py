@@ -28,4 +28,4 @@ __author__ = "Your Name"
 # What is the word?
 #
 
-results = None
+results = []
