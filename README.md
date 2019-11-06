@@ -20,10 +20,11 @@ Create a solutions directory for your exercise solutions, in the chapter-9 direc
       
      ~/chapter-9 (master)$ mkdir solutions
       
-Copy all of your final/completed lab chapter-9 solutions from all exercise problems 
-into the solutions directory.  
+Copy all of your final/completed chapter-9 lab **exercise solutions** from all exercise 
+problems, and the **words.txt** file into the solutions directory.  
     
      ~/chapter-9 (master)$ cp exercise*  solutions/ 
+     ~/chapter-9 (master)$ cp words.txt  solutions/
      ...
     
 Make sure that you copy all of your completed exercise solutions from this chapter
