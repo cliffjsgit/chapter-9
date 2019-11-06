@@ -27,7 +27,7 @@ problems, and the **words.txt** file into the solutions directory.
      ~/chapter-9 (master)$ cp words.txt  solutions/
      ...
     
-Make sure that you copy all of your completed exercise solutions from this chapter
-into your **single**  ~/chapter9/solutions directory, preserving the orignal 
-file names of the exercises. 
+Make sure that you copy all of your completed exercise solutions and the words.txt file
+from this chapter into your **single**  ~/chapter9/solutions directory, 
+preserving the orignal file names of these files. 
 
